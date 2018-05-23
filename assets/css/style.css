@@ -1,4 +1,4 @@
-body{font-family:'Roboto', sans-serif;line-height:28px;font-weight:300;font-size:14px;color:#282828;background-color:#fff;-webkit-text-size-adjust:100%;-webkit-overflow-scrolling:touch;-webkit-font-smoothing:antialiased !important;}
+body{font-family:'Arial', sans-serif;line-height:28px;font-weight:300;font-size:14px;color:#282828;background-color:#fff;-webkit-text-size-adjust:100%;-webkit-overflow-scrolling:touch;-webkit-font-smoothing:antialiased !important;}
 body, html{overflow-x:hidden;}
 a{color:#68c3a3;}
 a,
@@ -73,7 +73,7 @@ ul.list-check li::before{content:"\f00c";font-family:fontawesome;color:#68c3a3;m
 .social-icons a i:hover::after{background:#68c3a3;border:1px solid transparent;z-index:0;}
 .header{border-bottom:1px solid #eee;position:relative;width:100%;z-index:998;padding-bottom:1px;background:#fff;}
 .header::after{border-bottom:1px solid #eee;width:100%;position:absolute;content:"";height:2px;bottom:1px;left:0;}
-.navbar-custom{border:0;border-radius:0;margin:0;text-transform:uppercase;font-family:'Roboto Condensed', sans-serif;}
+.navbar-custom{border:0;border-radius:0;margin:0;text-transform:uppercase;font-family:'Arial Condensed', sans-serif;}
 .navbar-custom,
 .navbar-custom .dropdown-menu{background:#fff;padding:0;}
 .navbar-custom ul li a span{margin-left:5px;}
